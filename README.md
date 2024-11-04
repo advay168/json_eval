@@ -1,4 +1,4 @@
-# JSONEval
+# json_eval
 
 A CLI program similar to `jq` to manipulate json.
 
@@ -18,7 +18,7 @@ A CLI program similar to `jq` to manipulate json.
 
 - Clone project
 ```
-git clone url && cd json_eval
+git clone https://github.com/advay168/json_eval && cd json_eval
 ```
 
 - Make temporary build directory
